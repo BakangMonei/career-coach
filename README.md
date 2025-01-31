@@ -1,6 +1,5 @@
 # Full Stack AI Career Coach with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI Tutorial 🔥🔥
 
-
 ### Make sure to create a `.env` file with following variables -
 
 ```
@@ -18,12 +17,15 @@ GEMINI_API_KEY=
 ```
 
 # Authentication
+
 Clerk - https://go.clerk.com/pkesmB9
 
 # Database
- Neon - https://fyi.neon.tech/4rc
+
+Neon - https://fyi.neon.tech/4rc
 
 # Workflow Management
+
 Inngest - https://innge.st/yt-rsc2
 
 ```
